@@ -86,7 +86,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https:https://github.com/Chunkzmodsakpz/DonLee-Robot-V2/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://youtu.be/NrbMc93aCzA"><img src="https:https://github.com/Chunkzmodsakpz/DonLee-Robot-V2/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="https://github.com/Chunkzmodsakpz/DonLee-Robot-V2" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 ----
@@ -107,7 +107,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - `FILE_BUTTONS` : Single or Dual Button
 - `FILE_CAPTION` : File Caption bold or mono
 - `FORCE_CHANNEL` : Main Channel Username Without @
-- `FORCE_TEXT` : Demo Text From [Click Here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L6)
+- `FORCE_TEXT` : Demo Text From [Click Here](https:https://github.com/Chunkzmodsakpz/DonLee-Robot-V2 /DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L6)
 - `GROUP_LINK` : Your Telagarm Group Link (Without @)
 - `PHOTOS` : Bot Pics (Start Help about) random pics [click here](https://youtu.be/c-GfUfriP50)
 - `SESSION_FILE` : From [Click Here](https://youtu.be/WUN_12-dYOM)
